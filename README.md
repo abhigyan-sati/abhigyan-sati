@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhigyan-sati
+- 👋 Heyy, I’m @sudo.abhi
 - 👀 I’m interested in cyber sec, programming , networking.
 - 🌱 I’m currently learning java script and python
 
